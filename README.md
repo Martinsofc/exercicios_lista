@@ -1,2 +1,1 @@
-# exercicios_lista
-exercicios_hiury_arthur
+# exercicios_lista Hiury Arthur
