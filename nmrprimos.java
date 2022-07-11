@@ -1,3 +1,4 @@
+//Hiury Martins 
 import java.util.Scanner;
 public class numerosprimos {
     static Integer numero;
