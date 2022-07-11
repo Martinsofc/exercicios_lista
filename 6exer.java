@@ -1,3 +1,4 @@
+//Hiury Martins
 package ex456;
 import java.util.Scanner;
 public class ex6 {
@@ -13,10 +14,6 @@ public static void main(String[] args) {
     clibra = gramas / libra;
     System.out.println("Quantidade de gramas em libras: " + clibra);
     System.out.println("Quantidade de gramas em quilos: " + cquilo);
-
-
-
-
 
 }
     
