@@ -1,8 +1,7 @@
 
+//Hiury Martins 
 import java.util.Scanner;
-
 import javax.sound.sampled.SourceDataLine;
-
 public class exercicio1 {
 
 public static void main( String [] args) {
@@ -16,18 +15,18 @@ public static void main( String [] args) {
       System.out.println( "Digite o primeiro número");
       numero1 = input.nextInt();
     
-      System.out.println( "Digite o segundo número");
-      numero2 = input.nextInt();
+        System.out.println( "Digite o segundo número");
+        numero2 = input.nextInt();
     
-      soma = numero1 + numero2;
-      subtracao = numero1 - numero2;
-      divisao = numero1 / numero2;
-      multiplicacao = numero1 * numero2;
+       soma = numero1 + numero2;
+       subtracao = numero1 - numero2;
+       divisao = numero1 / numero2;
+       multiplicacao = numero1 * numero2;
     
-      System.out.println("A soma é: " + soma);
-      System.out.println("A subtracao é: " + subtracao);
-      System.out.println("A divisao é: " + divisao);
-      System.out.println("A multiplicacao é: " + multiplicacao);
+       System.out.println("A soma é: " + soma);
+       System.out.println("A subtracao é: " + subtracao);
+       System.out.println("A divisao é: " + divisao);
+       System.out.println("A multiplicacao é: " + multiplicacao);
   }
  }
 }
