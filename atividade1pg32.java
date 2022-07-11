@@ -1,3 +1,4 @@
+//Hiury Martins 
 import java.util.Scanner;
 public class atividade1pg32{
     public static void main(String[] args) {
@@ -9,8 +10,8 @@ public class atividade1pg32{
         {
             i = i + 1;
             
-            if (i % 2 == 1)  {
-                impar = i + impar;
+    if (i % 2 == 1)  {
+         impar = i + impar;
             } else {
                 par = par * i;                
             }
